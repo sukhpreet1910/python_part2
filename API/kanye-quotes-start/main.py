@@ -1,9 +1,10 @@
 from tkinter import *
+import requests, json
 
 
 def get_quote():
-    pass
-    #Write your code here.
+    url = 'https://api.kanye.rest/'
+    
 
 
 
